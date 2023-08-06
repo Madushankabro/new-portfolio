@@ -434,9 +434,13 @@ form .btn2{
 nav .fa{
     display: none;
 }
+*{
+    margin: 0;
+    padding: 0;
+}
  @media only screen and (min-width:400px ) {
     #header{
-        background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/img\ 4.jpg); 
+        background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(images/img\ 4.jpg); 
     }
     .header-text{
         margin-top: 70%;
