@@ -434,7 +434,7 @@ form .btn2{
 nav .fa{
     display: none;
 }
- @media only screen and (max-width:400px ) {
+ @media only screen and (min-width:400px ) {
     #header{
         background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/img\ 4.jpg); 
     }
